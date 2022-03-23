@@ -1,5 +1,5 @@
 """Memory, puzzle game of number pairs.
-Hola
+Hola jiji
 Exercises:
 
 1. Count and print how many taps occur.
